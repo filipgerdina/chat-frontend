@@ -1,3 +1,3 @@
 #! /bin/bash
-echo "installing npm for backend"
+echo "installing npm for frontend"
 sudo npm install
